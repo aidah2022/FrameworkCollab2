@@ -46,6 +46,7 @@ public class LoginTest extends Base {
 		log.clickLoginBtn();
 		logger.info("Login successful with: " + email);
 		System.out.println("Changes made by X to LoginTest");
+		System.out.println("Changes made by Y to LoginTest to verify merge");
 	}
 	
 	@DataProvider
