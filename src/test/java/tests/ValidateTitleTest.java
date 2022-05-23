@@ -42,6 +42,6 @@ public class ValidateTitleTest extends Base {
 	
 	@Test
 	public void blankTest2() {
-		System.out.println("Architect Y");
+		System.out.println("Architect Y ***");
 	}
 }
