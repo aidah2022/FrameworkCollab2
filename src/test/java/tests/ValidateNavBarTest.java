@@ -41,4 +41,14 @@ public class ValidateNavBarTest extends Base {
 		System.out.println("Changes made by Y to ValidateNavBar");
 	}
 	
+	@Test
+	public void blankTest4() {
+		System.out.println("Architect X");
+	}
+	
+	@Test
+	public void blankTest5() {
+		System.out.println("Architect X");
+	}
+	
 }
