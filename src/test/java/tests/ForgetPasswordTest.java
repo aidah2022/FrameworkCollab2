@@ -43,6 +43,7 @@ public class ForgetPasswordTest extends Base {
 		fPass.getEmailField().sendKeys("aida");
 		fPass.sendInstructions().click();
 		System.out.println("Changes made by Y to ForgetPassword");
+		System.out.println("Changes made by X to ForgetPassword");
 		
 	}
 	
