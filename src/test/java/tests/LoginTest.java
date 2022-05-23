@@ -58,4 +58,9 @@ public class LoginTest extends Base {
 		
 		return loginInfo;
 	}
+
+	@Test
+	public void blankTest() {
+		System.out.println("Architect Y");
+	}
 }
