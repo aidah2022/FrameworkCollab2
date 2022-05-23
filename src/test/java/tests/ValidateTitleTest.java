@@ -44,4 +44,9 @@ public class ValidateTitleTest extends Base {
 	public void blankTest2() {
 		System.out.println("Architect Y ***");
 	}
+	
+	@Test
+	public void blankTest3() {
+		System.out.println("Architect X");
+	}
 }
