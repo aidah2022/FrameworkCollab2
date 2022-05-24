@@ -40,4 +40,13 @@ public class ValidateTitleTest extends Base {
 		logger.info("Header text matches");
 	}
 	
+	@Test
+	public void blankTest2() {
+		System.out.println("Architect Y ***");
+	}
+	
+	@Test
+	public void blankTest3() {
+		System.out.println("Architect X");
+	}
 }
