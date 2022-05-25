@@ -48,5 +48,6 @@ public class ValidateTitleTest extends Base {
 	@Test
 	public void blankTest3() {
 		System.out.println("Architect X");
+		System.out.println("Change to verify reset");
 	}
 }
